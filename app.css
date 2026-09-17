@@ -10,13 +10,23 @@ body{
     height: 100vh;
 }
 
-.container{
+.homepage-container{
     width: 50%;
     height:50%;
     border: 2px solid black;
-    margin: 0 auto;
+    margin: 3.125rem auto;
     display: flex;
     flex-direction: column;
     justify-content: center;
     text-align: center;
+}
+
+.homepage-container button{
+    width: 70%;
+    height: 3.125rem;
+    margin: 0.625rem auto;
+    text-align: center;
+    padding: 1.5rem;
+    border-radius: 5%;
+
 }
