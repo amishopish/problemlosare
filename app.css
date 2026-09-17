@@ -4,7 +4,7 @@
     --yellow: #FFFFE3;
 }
 
-body{
+.homepage-body{
     background-color: var(--primary-pink);
     width: 100vw;
     height: 100vh;
