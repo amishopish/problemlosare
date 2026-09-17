@@ -1,5 +1,11 @@
+:root{
+    --primary-pink: #FDC3DD;
+    --secondary-pink: #FADADD;
+    --yellow: #FFFFE3;
+}
+
 body{
-    background-color: #FDC3DD;
+    background-color: var(--primary-pink);
     width: 100vw;
     height: 100vh;
 }
