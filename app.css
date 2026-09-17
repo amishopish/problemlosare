@@ -21,12 +21,12 @@ body{
     text-align: center;
 }
 
-.homepage-container button{
+.homepage-container input{
     width: 70%;
     height: 3.125rem;
     margin: 0.625rem auto;
     text-align: center;
     padding: 1.5rem;
-    border-radius: 5%;
-
+    font-family: Roboto;
 }
+
