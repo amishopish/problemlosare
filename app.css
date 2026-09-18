@@ -38,3 +38,13 @@
     height: 100vh;
     background-color: var(--secondary-pink);
 }
+
+.dp-body fieldset{
+    height: 31.25rem;
+    width: 43.75rem;
+    background-color: var(--yellow);
+    margin: 3.125rem auto;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
