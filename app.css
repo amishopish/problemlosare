@@ -4,6 +4,7 @@
     --yellow: #FFFFE3;
 }
 
+/* Homepage */
 .homepage-body{
     background-color: var(--primary-pink);
     width: 100vw;
@@ -28,4 +29,12 @@
     text-align: center;
     padding: 1.5rem;
     font-family: 'Arial';
+}
+
+/* Define Problem */
+
+.dp-body{
+    width: 100vw;
+    height: 100vh;
+    background-color: var(--secondary-pink);
 }
