@@ -48,3 +48,14 @@
     flex-direction: column;
     text-align: center;
 }
+
+.problem-text label{
+    font-size: 1.2rem;
+}
+
+#define-problem{
+    width: 70%;
+    height: 21rem;
+    margin: 1.25rem auto;
+    border-radius: 10%;
+}
