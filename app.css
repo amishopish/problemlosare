@@ -2,6 +2,7 @@
     --primary-pink: #FDC3DD;
     --secondary-pink: #FADADD;
     --yellow: #FFFFE3;
+    font-family: Helvetica;
 }
 
 /* Homepage */
@@ -27,7 +28,6 @@
     margin: 0.625rem auto;
     text-align: center;
     padding: 1.5rem;
-    font-family: 'Arial';
 }
 
 /* Saved Problems */
